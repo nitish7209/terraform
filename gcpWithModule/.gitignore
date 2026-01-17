@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Secrets
+terraform-sa-key.json
+
+# OS
+.DS_Store
